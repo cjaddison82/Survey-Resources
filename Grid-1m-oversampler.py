@@ -6,12 +6,12 @@ try:
 except:
     print "import error"
 
-T = int(1) #flag for while loop
+#T = int(1) #flag for while loop - removed depricated code
 
 
-E = [] #new array to read from the RPL file
-N = []
-KP = []
+#E = [] #new array to read from the RPL file - depricated
+#N = []
+#KP = []
 
 gridE = [] #new array to write logfile values to
 gridN = []
